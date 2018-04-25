@@ -1,0 +1,44 @@
+{
+  "name": "jxtreehousecode",
+  "version": "1.0.0",
+  "description": "javascrit solutions of leetcode questions",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "brace-expansion": "^1.1.11",
+    "eslint": "^4.19.1",
+    "package-preamble": "^0.1.0",
+    "rollup": "^0.58.2",
+    "rollup-plugin-ascii": "^0.0.3",
+    "rollup-plugin-json": "^2.3.0",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "tape": "^4.9.0",
+    "uglify-js": "^3.3.22",
+    "webstorm-disable-index": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZ33/JXTreeHouseCode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "Algorithms",
+    "javascrite"
+  ],
+  "author": "AlexZ33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexZ33/JXTreeHouseCode/issues"
+  },
+  "homepage": "https://github.com/AlexZ33/JXTreeHouseCode#readme"
+}
